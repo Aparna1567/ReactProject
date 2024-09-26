@@ -56,7 +56,7 @@ const Navbar = () => {
                 <Link to="dishes" spy={true} smooth={true} duration={500} className='hover:text-brightColor transition-all cursor-pointer' >Dishes</Link>
                 <Link to="about" spy={true} smooth={true} duration={500} className='hover:text-brightColor transition-all cursor-pointer' >About</Link>
                 <Link to="menu" spy={true} smooth={true} duration={500} className='hover:text-brightColor transition-all cursor-pointer' >Menu</Link>
-                <Link to="reviews" spy={true} smooth={true} duration={500} className='hover:text-brightColor transition-all cursor-pointer' >Reviews</Link>
+                <Link to="review" spy={true} smooth={true} duration={500} className='hover:text-brightColor transition-all cursor-pointer' >Reviews</Link>
                 <Button title="Login" />    
                 </div>
             </div>
