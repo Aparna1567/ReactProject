@@ -8,7 +8,10 @@ export default {
         backgroundColor: "#b7bca9",
         lightText:"#959595",
         RedText:"lightblue",
-        whiteText:"#ccc"
+        whiteText:"#ccc",
+        whitecol:"#fff",
+        yel:"lightyellow",
+        yello:"yellow"
       },
     },
   },
